@@ -14,5 +14,9 @@ System.out.println("M1");
 public void m2()
 {
 System.out.println("Git2");
+}	
+public void m3(){
+System.out.println("Git3")
+	
 }
 }
